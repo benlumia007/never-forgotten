@@ -1,4 +1,4 @@
-remote_theme: benlumia007/never-forgotten
+remote_theme: benlumia007/never-forgotten@develop
 
 plugins:
   - jekyll-remote-theme
