@@ -1,1 +1,2 @@
-theme: never-forgotten
+plugins:
+  - jekyll-remote-theme
